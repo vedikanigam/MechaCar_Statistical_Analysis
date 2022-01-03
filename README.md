@@ -49,7 +49,7 @@ This statistical study will test highway fuel efficiency of MechaCar against the
 The null hypothesis will be the fuel efficiency of MechaCar is less than or equal to the competition.
 The alternative hypothesis will be the fuel efficiency of MechaCar is greater than the competiton.
 
-We will use two-sample unpaired t-Test to see whether the means of two samples are statistically different. 
+We will use two-sample unpaired t-Test to see whether the fuel efficiency of MechaCar is statistically better than the competition.
 
 We will use highway fuel efficiency and horsepower data for a large sample from MechaCar and from the competition. 
 
