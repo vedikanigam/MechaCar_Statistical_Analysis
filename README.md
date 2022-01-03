@@ -35,10 +35,12 @@ The p-value from T-test on all manufacturing lots is 0.06. Assuming significance
 The p-value in Lot 1 is 1 therefore we cannot reject the null hypothesis. 
 
 ![t-Test Lot2](https://github.com/vedikanigam/MechaCar_Statistical_Analysis/blob/main/Images/Manufacturing_Lot2_TTest.png)
+
 The p-value in Lot 2 is 0.6 therefore we cannot reject the null hypothesis.
 
 ![t-Test Lot3](https://github.com/vedikanigam/MechaCar_Statistical_Analysis/blob/main/Images/Manufacturing_Lot3_TTest.png)
-The p-value in Lot 2 is 0.04 hence we can reject the null hypothesis. Therefore the mean is not equal to the population mean of 1500 pounds per square inch for this lot.
+
+The p-value in Lot 3 is 0.04 hence we can reject the null hypothesis. Therefore the mean is not equal to the population mean of 1500 pounds per square inch for this lot.
 
 ## Study Design: MechaCar vs Competition
 
@@ -49,5 +51,5 @@ The alternative hypothesis will be the fuel efficiency of MechaCar is greater th
 
 We will use two-sample unpaired t-Test to see whether the means of two samples are statistically different. 
 
-We will use highway fuel efficiency and horsepower data for a large sample from MechaCar and the competition. 
+We will use highway fuel efficiency and horsepower data for a large sample from MechaCar and from the competition. 
 
